@@ -1,0 +1,26 @@
+body {
+       padding: 10px;
+}
+
+.container {
+       width: 100%;
+       /* display: flex; */
+
+}
+
+li {
+       list-style-type: upper-alpha;
+       padding-bottom: 5px;
+       color: brown;
+       /* margin: 1px; */
+}
+
+h2 {
+       padding-bottom: 5px;
+       color: yellow;
+       font-style: normal;
+}
+
+.l .dislikes {
+       list-style-type: decimal;
+}
